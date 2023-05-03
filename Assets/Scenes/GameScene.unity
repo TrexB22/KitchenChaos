@@ -693,6 +693,12 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -9089885711618590199, guid: d3fa1e6f6dc09ef40b7a6d08ae7aecea,
+        type: 3}
+      propertyPath: kichenObjectSO
+      value: 
+      objectReference: {fileID: 11400000, guid: a5b579d42637afd43a6f982436884b7a,
+        type: 2}
     - target: {fileID: 7353803455783951916, guid: d3fa1e6f6dc09ef40b7a6d08ae7aecea,
         type: 3}
       propertyPath: m_Name
@@ -978,6 +984,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -9089885711618590199, guid: d3fa1e6f6dc09ef40b7a6d08ae7aecea,
+        type: 3}
+      propertyPath: kichenObject
+      value: 
+      objectReference: {fileID: 11400000, guid: 80300181e1d04a049a21776098a05b79,
+        type: 2}
+    - target: {fileID: -9089885711618590199, guid: d3fa1e6f6dc09ef40b7a6d08ae7aecea,
+        type: 3}
+      propertyPath: kichenObjectSO
+      value: 
+      objectReference: {fileID: 11400000, guid: 80300181e1d04a049a21776098a05b79,
+        type: 2}
     - target: {fileID: 7353803455783951916, guid: d3fa1e6f6dc09ef40b7a6d08ae7aecea,
         type: 3}
       propertyPath: m_Name
