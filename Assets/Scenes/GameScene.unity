@@ -906,6 +906,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ac0b09e7857660247b1477e93731de29, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1658214102 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: -9089885711618590199, guid: d3fa1e6f6dc09ef40b7a6d08ae7aecea,
+    type: 3}
+  m_PrefabInstance: {fileID: 1127210871}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca0f8f89860b0d0408686c4990419b08, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2102666840
 GameObject:
   m_ObjectHideFlags: 0
@@ -986,6 +998,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -9089885711618590199, guid: d3fa1e6f6dc09ef40b7a6d08ae7aecea,
         type: 3}
+      propertyPath: testing
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -9089885711618590199, guid: d3fa1e6f6dc09ef40b7a6d08ae7aecea,
+        type: 3}
       propertyPath: kichenObject
       value: 
       objectReference: {fileID: 11400000, guid: 80300181e1d04a049a21776098a05b79,
@@ -996,6 +1013,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 80300181e1d04a049a21776098a05b79,
         type: 2}
+    - target: {fileID: -9089885711618590199, guid: d3fa1e6f6dc09ef40b7a6d08ae7aecea,
+        type: 3}
+      propertyPath: secondClearCounter
+      value: 
+      objectReference: {fileID: 1658214102}
     - target: {fileID: 7353803455783951916, guid: d3fa1e6f6dc09ef40b7a6d08ae7aecea,
         type: 3}
       propertyPath: m_Name
